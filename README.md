@@ -1,3 +1,5 @@
+A To-do list (FrontEnd project)
+
 ![taskify image](../assets/taskify-pic-copy.png?raw=true)
 
 # Getting Started with Create React App
